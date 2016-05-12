@@ -2,7 +2,7 @@
 layout: post
 title: "Post with Large Feature Image and Text"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
-category: Sample-Posts
+category: Steve
 tags: [sample post, readability]
 modified: 2013-06-30
 
