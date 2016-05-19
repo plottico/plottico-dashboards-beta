@@ -3,7 +3,7 @@ description:      "Beta test"
 logo: Chrisimos Logo.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
-default_bg:       default_bg1.jpg
+default_bg:       default_bg2.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
